@@ -1,6 +1,6 @@
 # Django-Project
 
-A Blog Application which perform CRUD operation with authentication system.
+A Blog Application which perform CRUD operation.
 
 # Framework
 1) Django
